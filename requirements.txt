@@ -56,6 +56,7 @@ playwright==1.40.0
 Protego==0.3.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
+pycairo==1.25.1
 pycodestyle==2.11.1
 pycparser==2.21
 PyDispatcher==2.0.7
